@@ -29,3 +29,10 @@ for fila in filas:
 
 df = pd.DataFrame({'FECHA': fecha_list, 'PIB ANUAL (EUROS)': pib_eur_list, 'PIB ANUAL (DOLARES)': pib_dol_list, 'VARIACION': variacion_list})
 df.to_csv('pib.csv', index=False, encoding='utf-8')
+
+
+#Integrantes:
+#Natasha Almeida
+#Mercy Cali
+#Ketsi Luca
+#María Saldaña
